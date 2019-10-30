@@ -1,0 +1,9 @@
+{  //replaces the arguments we need with running babel
+    "presets":[
+        "env",
+        "react"
+    ],
+    "plugins": [
+        "transform-class-properties"
+    ]
+}
