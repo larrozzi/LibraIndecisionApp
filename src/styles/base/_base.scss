@@ -5,9 +5,19 @@ html{
 }
 body{
     font-family: Helvetica, 'Times New Roman', sans-serif;
-    font-size:1.6rem;
+    font-size:$med-size;
+    background-color: $dark-blue;
 }
 
 h1{
     font-size: 2.2rem;
+}
+
+
+button{
+    cursor:pointer;
+}
+
+button:disabled{
+    cursor:default;
 }

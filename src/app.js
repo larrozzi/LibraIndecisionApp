@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import IndecisionApp from './components/IndecisionApp';
+import 'normalize.css/normalize.css'; //for having all browser show the same thing
 import './styles/styles.scss';  
 
 // //const template= <p> testing 123</p>; //this won't work because babel is not functional so it won't convert it to jsx

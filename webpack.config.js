@@ -31,7 +31,7 @@ module:{
         'css-loader',
         'sass-loader'
       ],
-      test:/\.scss$/ 
+      test:/\.s?css$/ 
     }]
 },
 
