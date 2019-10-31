@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import IndecisionApp from './components/IndecisionApp';
 import './styles/styles.scss';  
+
 // //const template= <p> testing 123</p>; //this won't work because babel is not functional so it won't convert it to jsx
 // const template= <p> THIS jsx from webpack</p> // same as React.createElement('p',{}, 'THIS jsx');
 // ReactDOM.render(template,document.getElementById('app'));

@@ -29,9 +29,8 @@ module:{
       use :[ // for loading an array of loader
         'style-loader',
         'css-loader',
-
+        'sass-loader'
       ],
-
       test:/\.scss$/ 
     }]
 },
