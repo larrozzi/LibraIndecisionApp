@@ -1,2 +1,1 @@
-a Libra's Indecision App
-link to the app: https://libra-indecision-app.herokuapp.com/
+a Libra's Indecision App: https://libra-indecision-app.herokuapp.com/
